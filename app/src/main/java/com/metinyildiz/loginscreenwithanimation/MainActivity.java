@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
         rellay1 = (RelativeLayout) findViewById(R.id.rellay1);
         rellay2 = (RelativeLayout) findViewById(R.id.rellay2);
 
-        handler.postDelayed(runnable,5000);
+        handler.postDelayed(runnable,2000);
 
     }
 }
